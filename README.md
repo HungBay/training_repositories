@@ -30,9 +30,8 @@
   - Ví dụ như thêm readme.md cho từng demo. Hướng dẫn các đoạn code. Fix errors
   - You are welcome
  
- @Hieu: HungBay updated at 2019-07-12 19:52:00
-
-@HungBay: update 19:55
+ @HungBay: Hung updated at 2019-07-12 20:11:00
+ 
 ## License
 
  None
