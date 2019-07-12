@@ -1,4 +1,4 @@
-## Synopsis / Tóm tắt
+﻿## Synopsis / Tóm tắt
 
  Repository này được dùng để lưu trữ demo các bài thực hành về angular.	
  
@@ -30,7 +30,7 @@
   - Ví dụ như thêm readme.md cho từng demo. Hướng dẫn các đoạn code. Fix errors
   - You are welcome
  
- @Hieu: Pham Van Hieu updated at 2019-07-12 20:00:00
+ @Hieu: Hung updated at 2019-07-12 19:40:00
 
 ## License
 
